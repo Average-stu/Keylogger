@@ -6,8 +6,8 @@ from threading import Semaphore, Timer
 
 
 SEND_REPORT_EVERY = 10
-EMAIL_ADDRESS = "trailforwindows@gmail.com" #be aware 
-EMAIL_PASSWORD = "Aman@217" #You Think I am a fool to you 
+EMAIL_ADDRESS = "" #provide a Temporary one 
+EMAIL_PASSWORD = "" #passwd 
 
 
 
